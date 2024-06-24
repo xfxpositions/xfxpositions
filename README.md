@@ -11,11 +11,11 @@ My Projects 📂:
 -	maria: Tools and utilities for kernel development and debugging.
 -	xfxos: Automated CI/CD pipelines for rapid and reliable software releases.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wizard-lgtm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfxpositions&layout=compact)
 
 My stats 📊
 
-![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=wizard-lgtm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icon=true)
+![xfxpositions's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfxpositions&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icon=true)
 
 
 Connect with Me:
