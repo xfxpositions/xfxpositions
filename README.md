@@ -17,12 +17,5 @@ My stats 📊
 
 ![xfxpositions's GitHub stats](https://github-readme-stats.vercel.app/api?username=xfxpositions&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icon=true)
 
+https://yusufkaraca.dev
 
-Connect with Me:
-
-- 🗨️ Discord Nickname: ziggywizard
-- 🌐 [Personal Homepage](https://ziggywizard.dev)
-- ▶️ [Youtube Channel](https://www.youtube.com/@ziggywizard)
-- 📝 [My Notes](https://notes.ziggywizard.dev)
-
-Feel free to reach out for collaborations or just to say hi! 😊
