@@ -8,8 +8,8 @@ I’m a software developer based in Istanbul, Turkey. Interested about:
 My Projects 📂:
 
 -	tiny-http-zig : A comprehensive web application for managing tasks and projects.
--	maria: Tools and utilities for kernel development and debugging.
--	xfxos: Automated CI/CD pipelines for rapid and reliable software releases.
+-	maria: Simple Rust web framework based on Expressjs
+-	xfxos: Tiny kernel
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xfxpositions&layout=compact)
 
