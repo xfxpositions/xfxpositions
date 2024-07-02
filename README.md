@@ -7,7 +7,7 @@ I’m a software developer based in Istanbul, Turkey. Interested about:
 
 My Projects 📂:
 
--	tiny-http-zig : A comprehensive web application for managing tasks and projects.
+-	tiny-http-zig : A comprehensive http server library for managing tasks and projects.
 -	maria: Simple Rust web framework based on Expressjs
 -	xfxos: Tiny kernel
 
